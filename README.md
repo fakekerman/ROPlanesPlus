@@ -207,6 +207,8 @@ python verify_mu_and_configs.py          # check all models, configs, textures, 
 
 **ROPlanes+** © 2026 Fake_kerman, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): you may share and modify it if you give credit, don't sell it, and share your changes under the same license. See [LICENSE](LICENSE).
 
+**Contributors:** Fake_kerman (ideas, design decisions and testing); built almost entirely by the AI assistants **Claude** (Anthropic) and **Gemini** (Google).
+
 **Engine sounds:** the recorded loops are made from Freesound recordings and keep their original licences (CC BY 3.0, CC BY 4.0 and CC0). Thanks to jarekgie (PZL-104 Wilga), Fight2FlyPhoto (P-47, Bf 109, P-51), squashy555 (Merlin), craigsmith (glider airflow) and jerry.berumen (PT6 floatplane). Full details and links are in [`GameData/ROPlanesPlus/Sounds/CREDITS.txt`](GameData/ROPlanesPlus/Sounds/CREDITS.txt).
 
 **Engine data:** engine numbers marked "AJE" above are taken from the configs of [Advanced Jet Engine](https://github.com/KSP-RO/AJE).
