@@ -46,11 +46,11 @@ ROPlanes+ adds aircraft parts for the realism stack (RSS / RO / RP-1, FAR, AJE, 
 
 ## Installation
 
-1. Click the green **Code** button at the top of this page, then **Download ZIP**, and unzip it.
-2. Copy the folder `GameData/ROPlanesPlus` into the `GameData` folder of your KSP install, so you end up with `Kerbal Space Program/GameData/ROPlanesPlus/`.
+1. Go to [**Releases**](../../releases) and download the latest `ROPlanesPlus-vX.Y.Z.zip` (under *Assets*).
+2. Unzip it into your KSP folder (the one that contains `GameData`), so you end up with `Kerbal Space Program/GameData/ROPlanesPlus/`.
 3. Make sure ModuleManager and B9PartSwitch are installed.
 
-Only `GameData/ROPlanesPlus` is needed to play. Everything else in this repository is the source the mod is built from.
+Only `GameData/ROPlanesPlus` is needed to play. Everything else in this repository is the source the mod is built from (the green **Code → Download ZIP** button gives you all of it, including the latest unreleased changes).
 
 **Upgrading from an older build:** the Spitfire and Bf 109 cockpits now use a 0.9375 m ring (their real fuselage width), and the old separate engine parts (`ROPlanes-ProcProp-Radial`, `-VInline`, `-Turboprop`, `-Contra`) were replaced by one engine part. Craft built with those need the parts re-attached. Propellers now turn clockwise (seen from the cockpit) by default.
 
