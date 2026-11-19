@@ -1,0 +1,45 @@
+ROPlanes+ engine sounds
+=======================
+
+Loops built from real recordings (cut, pitch-aligned, looped, filtered and level-matched
+by process_recordings.py); all other sounds are synthesized by generate_sounds.py.
+
+"PZL 104 WILGA START ENGINE (CLOSE).MP3" by jarekgie (PZL-104 Wilga, Ivchenko AI-14R (9-cyl radial) idling, recorded close)
+  https://freesound.org/people/jarekgie/sounds/140436/
+  Licence: CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/
+  Used (modified) in: radial_idle
+
+"P-47 Flyby" by Fight2FlyPhoto (Republic P-47D, P&W R-2800 (18-cyl radial) at power on approach)
+  https://freesound.org/people/Fight2FlyPhoto/sounds/143560/
+  Licence: CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/
+  Used (modified) in: radial_mid, radial_mid_off, radial_high, radial_high_off
+
+"Bf-109 - Daimler-Benz Run-Up" by Fight2FlyPhoto (Messerschmitt Bf 109E-3, Daimler-Benz DB 601 (inverted V-12) warm-up and run-up)
+  https://freesound.org/people/Fight2FlyPhoto/sounds/142898/
+  Licence: CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/
+  Used (modified) in: vinline_idle, vinline_mid
+
+"merlin engine.wav" by squashy555 (Rolls-Royce Merlin running on a static display stand without propeller)
+  https://freesound.org/people/squashy555/sounds/276597/
+  Licence: CC0 1.0
+  Used (modified) in: vinline_mid_off
+
+"P-51 Mustang Takeoff" by Fight2FlyPhoto (North American P-51B, Packard Merlin (V-12) at take-off power)
+  https://freesound.org/people/Fight2FlyPhoto/sounds/143561/
+  Licence: CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/
+  Used (modified) in: vinline_high, vinline_high_off
+
+"G02-21-Aircraft-Glider" by craigsmith (glider in flight: airflow)
+  https://freesound.org/people/craigsmith/sounds/437745/
+  Licence: CC0 1.0
+  Used (modified) in: wind
+
+"seaplane vancouver dock engine start cruise" by jerry.berumen (turboprop floatplane (PT6) start and taxi)
+  https://freesound.org/people/jerry.berumen/sounds/772823/
+  Licence: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+  Used (modified) in: turbine_whine
+
+"seaplane takeoff vancouver city port engine" by jerry.berumen (turboprop floatplane (PT6) taking off)
+  https://freesound.org/people/jerry.berumen/sounds/772822/
+  Licence: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+  Used (modified) in: turbine_roar, prop_loop

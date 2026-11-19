@@ -1,0 +1,10 @@
+# Never let git change line endings inside game assets
+*.mu   binary
+*.dat  binary
+*.png  binary
+*.dds  binary
+*.wav  binary
+*.ogg  binary
+*.mp3  binary
+*.dll  binary
+*.blend binary
