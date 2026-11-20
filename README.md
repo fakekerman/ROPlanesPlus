@@ -205,7 +205,7 @@ python verify_mu_and_configs.py          # check all models, configs, textures, 
 
 ## Credits and license
 
-**ROPlanes+** © 2026 Fake_kerman, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): you may share and modify it if you give credit, don't sell it, and share your changes under the same license. See [LICENSE](LICENSE).
+**ROPlanes+** © 2026 Fake_kerman, licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html): you may use, share and modify it, but anything you distribute that is based on it must also be released under GPL v3 with its source. See [LICENSE](LICENSE). The engine sound recordings below are not covered by the GPL; they keep their own licences.
 
 **Contributors:** Fake_kerman (ideas, design decisions and testing); built almost entirely by the AI assistants **Claude** (Anthropic) and **Gemini** (Google).
 
