@@ -1,6 +1,6 @@
 WARNİNG!!!!
 
-This project was made almost entirely by claude and gemini.I am not a coder nor a developer im a man with some ideas.So don't expect anything professional from this mod and if you are not okay with this please don't download nor comment.I made this for my playtrough at first but then realised there may be people that could use it so im uploading these here.
+This project was made almost entirely by claude and gemini.I am not a coder nor a developer im a man with some ideas.So don't expect anything professional from this mod and if you are not okay with this please don't download nor comment.I made this for my playthrough at first but then realised there may be people that could use it so im uploading these here.
 
 # ROPlanes+ (ROPlanesPlus)
 
