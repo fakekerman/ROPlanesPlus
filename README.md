@@ -37,14 +37,14 @@ ROPlanes+ adds aircraft parts for the realism stack (RSS / RO / RP-1, FAR, AJE, 
 - Kerbal Space Program **1.12.x**
 - [ModuleManager](https://github.com/sarbian/ModuleManager)
 - [B9PartSwitch](https://github.com/blowfishpro/B9PartSwitch) (cockpit versions and paint schemes, pylon paint)
+- [Realism Overhaul](https://github.com/KSP-RO/RealismOverhaul) (the cockpits use its fighter IVA, ejection seat and RealFuels tanks). RO also brings in its own requirements, including RealFuels, Advanced Jet Engine (AJE) and Ferram Aerospace Research (FAR).
+- [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack) (the engine's AvGas fuel)
 
-**Made for (strongly recommended)**
-- RealSolarSystem, Realism Overhaul and RP-1
-- Ferram Aerospace Research (FAR)
-- Advanced Jet Engine (AJE) with SolverEngines: the propeller engine uses AJE's propeller model. Without AJE a simple stock fallback engine is used.
+**Recommended**
+- RP-1 (career tech tree and costs) and RealSolarSystem. Neither is required: the parts work in any RO game.
 - Kerbalism and RealAntennas (patches included)
 
-**Optional:** TexturesUnlimited, SimpleRepaint, Reforged Materials, BDArmory (see [Compatibility](#compatibility-with-other-mods)).
+**Optional:** TexturesUnlimited, SimpleRepaint, Reforged Materials, BDArmory, Connected Living Space (see [Compatibility](#compatibility-with-other-mods)).
 
 ---
 
@@ -52,7 +52,7 @@ ROPlanes+ adds aircraft parts for the realism stack (RSS / RO / RP-1, FAR, AJE, 
 
 1. Go to [**Releases**](../../releases) and download the latest `ROPlanesPlus-vX.Y.Z.zip` (under *Assets*).
 2. Unzip it into your KSP folder (the one that contains `GameData`), so you end up with `Kerbal Space Program/GameData/ROPlanesPlus/`.
-3. Make sure ModuleManager and B9PartSwitch are installed.
+3. Make sure the [required mods](#requirements) are installed (ModuleManager, B9PartSwitch, Realism Overhaul, Community Resource Pack). With CKAN they are installed automatically.
 
 Only `GameData/ROPlanesPlus` is needed to play. Everything else in this repository is the source the mod is built from (the green **Code → Download ZIP** button gives you all of it, including the latest unreleased changes).
 
